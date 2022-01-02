@@ -1,0 +1,24 @@
+# generative-art-opensource
+Create nft punk generator art by using the canvas api and node js, feel free to contribute to this repo with new ideas.
+
+
+# Download or Clone the project
+
+1). STEP--1
+Click "Download" and project will get downloaded in .zip format, after that you need to unzip it.
+        OR
+Type "git clone <githubRepoLink>" to clone the project.
+
+2). STEP--2
+After that open that project in terminal.
+(note: Path in the terminal should end with ".../nft-punk-generator/")
+Type "npm install" and press enter, to install the dependencies of this project.
+
+3). STEP--3
+Now, the final part of to type "node index" and BOOOOMMM !!!
+
+Congratulations !!! 
+
+( See the output folder and enjoy user first ever NFT-PUNK-ART)
+( Don't forget to give star to REPO and raise pull-requests for improvement )
+( Customize the input folder files according to user convenience to explore the code-base. )
