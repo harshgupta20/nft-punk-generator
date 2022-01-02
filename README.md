@@ -2,7 +2,7 @@
 Create nft punk generator art by using the canvas api and node js, feel free to contribute to this repo with new ideas.
 
 
-# Download or Clone the project
+# Walkthrough with the project 😊 😊 😊
 
 1). STEP--1
 Click "Download" and project will get downloaded in .zip format,
@@ -24,7 +24,7 @@ Type "npm install" and press enter, to install the dependencies of this project.
 
 
 3). STEP--3
-Now, the final part of to type "node index" and BOOOOMMM !!!
+Now, the final part of to type "node index" and BOOOOMMM !!! 💥💥💥
 
         node index
 
