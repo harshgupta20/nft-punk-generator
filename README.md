@@ -19,12 +19,15 @@ Type "git clone https://github.com/harshgupta20/nft-punk-generator.git" to clone
 After that open that project in terminal.
 (note: Path in the terminal should end with ".../nft-punk-generator/")
 Type "npm install" and press enter, to install the dependencies of this project.
+
         npm install
 
 
 3). STEP--3
 Now, the final part of to type "node index" and BOOOOMMM !!!
+
         node index
+
 
 Congratulations !!! 
 
