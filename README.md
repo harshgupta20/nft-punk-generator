@@ -1,4 +1,4 @@
-# generative-art-opensource
+# nft-punk-generator
 Create nft punk generator art by using the canvas api and node js, feel free to contribute to this repo with new ideas.
 
 
